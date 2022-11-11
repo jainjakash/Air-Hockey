@@ -13,7 +13,7 @@ import javafx.event.*;
 import javafx.scene.input.*;
 import javafx.scene.text.*;
 
-public class AkashJain extends Application implements EventHandler<InputEvent>{
+public class AirHockey extends Application implements EventHandler<InputEvent>{
 	GraphicsContext gc;
 	AnimateObjects animate;
 	Paddles paddle;
